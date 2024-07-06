@@ -33,6 +33,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Análise de Dados e Visualização:** Técnicas para analisar e visualizar dados para obter insights.
   * Análise exploratória de dados;
   * Ferramentas de visualização;
+  * Dashboards interativos;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
