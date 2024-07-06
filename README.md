@@ -64,6 +64,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Identificação e definição de problemas;
   * Coleta e limpeza de dados;
   * Análise exploratória e modelagem;
+  * Implementação e comunicação de resultados.
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
