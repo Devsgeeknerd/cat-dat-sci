@@ -54,6 +54,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Redes neurais convolucionais (CNNs) para visão computacional;
   * Redes neurais recorrentes (RNNs) para processamento de linguagem natural.
 
+* **Processamento de Linguagem Natural (NLP):** Técnicas para análise e compreensão de texto e linguagem natural.
+
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
 <!-- Informações -->
