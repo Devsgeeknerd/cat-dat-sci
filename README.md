@@ -23,6 +23,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Estatísticas descritivas e inferenciais;
   * Distribuição de probabilidade;
   * Testes de hipóteses;
+  * Regressão e correlação.
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
