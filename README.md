@@ -40,6 +40,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Tipos de aprendizado de máquina (supervisionado, não supervisionado, reforço);
   * Algoritmos de machine learning (regressão linear, árvore de decisão, svm, redes neurais);
   * Treinamento e validação de modelos;
+  * Implementação de modelos em Python.
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
