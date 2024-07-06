@@ -17,6 +17,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Python para Data Science;
   * Bibliotecas Python (numPy, pandas, matplotlib, seaborn);
   * R para Data Science;
+  * Bibliotecas R (dplyr, ggplot2).
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
