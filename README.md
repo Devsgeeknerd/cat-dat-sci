@@ -70,6 +70,8 @@ Essas competências são fundamentais para resolver problemas complexos e tomar 
 
 > [!IMPORTANT]\
 > **Dicas de Estudo:**
+>
+> * Prática Contínua:
 
 <!-- Informações -->
 ## &#8505; Informações
