@@ -69,6 +69,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
 > [!IMPORTANT]\
+> **Dicas de Estudo:**
 
 <!-- Informações -->
 ## &#8505; Informações
