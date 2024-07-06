@@ -11,6 +11,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * O que é Data Science?
   * Ciclo de vida da ciência de dados;
   * Ferramentas e tecnologias usadas em Data Science;
+  * Exemplo de aplicações de Data Science.
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
