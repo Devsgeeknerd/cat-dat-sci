@@ -25,6 +25,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Testes de hipóteses;
   * Regressão e correlação.
 
+* **Mineração de Dados:** Processos e técnicas para descobrir padrões em grandes conjuntos de dados.
+
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
 <!-- Informações -->
