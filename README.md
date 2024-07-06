@@ -81,6 +81,7 @@ Essas competências são fundamentais para resolver problemas complexos e tomar 
 >   * Envolva-se em fóruns e grupos online para trocar de experiência e resolver dúvidas.
 >
 > * Atualização Constante:
+>   * Mantenha-se atualizado com as últimas tendências, ferramentas e técnicas em Data Science.
 
 <!-- Informações -->
 ## &#8505; Informações
