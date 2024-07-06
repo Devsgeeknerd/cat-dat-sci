@@ -39,6 +39,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Machine Learning:** Algoritmos e técnicas de aprendizado de máquina para criar modelos preditivos.
   * Tipos de aprendizado de máquina (supervisionado, não supervisionado, reforço);
   * Algoritmos de machine learning (regressão linear, árvore de decisão, svm, redes neurais);
+  * Treinamento e validação de modelos;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
