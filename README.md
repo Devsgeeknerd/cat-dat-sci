@@ -79,6 +79,8 @@ Essas competências são fundamentais para resolver problemas complexos e tomar 
 >
 > * Participação em Comunidades:
 >   * Envolva-se em fóruns e grupos online para trocar de experiência e resolver dúvidas.
+>
+> * Atualização Constante:
 
 <!-- Informações -->
 ## &#8505; Informações
