@@ -13,6 +13,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ferramentas e tecnologias usadas em Data Science;
   * Exemplo de aplicações de Data Science.
 
+* **Programação para Data Science:** Linguagens de programação e bibliotecas usadas em Data Science.
+
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
 <!-- Informações -->
