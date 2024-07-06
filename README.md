@@ -52,6 +52,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Introdução ao deep learning;
   * Redes neurais artificiais;
   * Redes neurais convolucionais (CNNs) para visão computacional;
+  * Redes neurais recorrentes (RNNs) para processamento de linguagem natural.
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
