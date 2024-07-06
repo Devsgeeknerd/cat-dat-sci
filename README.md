@@ -76,6 +76,8 @@ Essas competências são fundamentais para resolver problemas complexos e tomar 
 >
 > * Certificações:
 >   * Busque certificações para validar seus conhecimentos e aumentar a credibilidade.
+>
+> * Participação em Comunidades:
 
 <!-- Informações -->
 ## &#8505; Informações
