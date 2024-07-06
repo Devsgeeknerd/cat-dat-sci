@@ -26,6 +26,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Regressão e correlação.
 
 * **Mineração de Dados:** Processos e técnicas para descobrir padrões em grandes conjuntos de dados.
+  * Processos de mineração de dados;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
