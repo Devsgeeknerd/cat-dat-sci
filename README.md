@@ -63,6 +63,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Projeto de Data Science:** Desenvolvimento de projetos completos de ciência de dados.
   * Identificação e definição de problemas;
   * Coleta e limpeza de dados;
+  * Análise exploratória e modelagem;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
