@@ -61,6 +61,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Aplicações de NLP;
 
 * **Projeto de Data Science:** Desenvolvimento de projetos completos de ciência de dados.
+  * Identificação e definição de problemas;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
