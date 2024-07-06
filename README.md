@@ -45,6 +45,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Big Data:** Tecnologias e técnicas para processar e analisar grandes volumes de dados.
   * Fundamentos de Big Data;
   * Hadoop e MapReduce;
+  * Spark para processamento de dados;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
