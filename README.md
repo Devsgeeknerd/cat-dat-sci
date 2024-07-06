@@ -75,6 +75,7 @@ Essas competências são fundamentais para resolver problemas complexos e tomar 
 >   * Participe de competições em plataformas como Kaggle para aplicar o que aprendeu.
 >
 > * Certificações:
+>   * Busque certificações para validar seus conhecimentos e aumentar a credibilidade.
 
 <!-- Informações -->
 ## &#8505; Informações
