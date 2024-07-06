@@ -36,6 +36,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Dashboards interativos;
   * Storytelling com dados.
 
+* **Machine Learning:** Algoritmos e técnicas de aprendizado de máquina para criar modelos preditivos.
+
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
 <!-- Informações -->
