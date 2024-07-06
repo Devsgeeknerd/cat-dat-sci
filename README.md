@@ -10,6 +10,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Introdução à DataScience:** Fundamentos e conceitos da ciência de dados.
   * O que é Data Science?
   * Ciclo de vida da ciência de dados;
+  * Ferramentas e tecnologias usadas em Data Science;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
