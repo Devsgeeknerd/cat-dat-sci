@@ -22,6 +22,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Estatística e Probabilidade:** Fundamentos de estatística e probabilidade aplicados à ciência de dados.
   * Estatísticas descritivas e inferenciais;
   * Distribuição de probabilidade;
+  * Testes de hipóteses;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
