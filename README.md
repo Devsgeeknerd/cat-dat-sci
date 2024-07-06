@@ -30,6 +30,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Técnicas de mineração de dados;
   * Ferramentas de mineração de dados.
 
+* **Análise de Dados e Visualização:** Técnicas para analisar e visualizar dados para obter insights.
+
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
 <!-- Informações -->
