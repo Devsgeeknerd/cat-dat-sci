@@ -7,13 +7,14 @@ A categoria Data Science é crucial para extrair insights valiosos a partir de g
 
 Ao completar esta categoria, terá habilidades robustas em:
 
-* **Introdução à DataScience:** Fundamentos e conceitos da ciência de dados.
+* **Introdução à Data Science:** Fundamentos e conceitos da ciência de dados.
   * O que é Data Science?
   * Ciclo de vida da ciência de dados;
   * Ferramentas e tecnologias usadas em Data Science;
   * Exemplo de aplicações de Data Science.
 
 * **Programação para Data Science:** Linguagens de programação e bibliotecas usadas em Data Science.
+  * Python para Data Science;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
