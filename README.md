@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Data Science é crucial para extrair insights valiosos a partir de grandes volumes de dados.
+
+Ao completar esta categoria, terá habilidades robustas em:
+
+Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
+
 <!-- Informações -->
 ## &#8505; Informações
 
