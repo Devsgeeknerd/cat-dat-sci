@@ -48,6 +48,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Spark para processamento de dados;
   * NoSQL database.
 
+* **Deep Learning:** Técnicas avançadas de aprendizado de máquina usando redes neurais profundas.
+
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
 <!-- Informações -->
