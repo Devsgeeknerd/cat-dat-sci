@@ -46,6 +46,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Fundamentos de Big Data;
   * Hadoop e MapReduce;
   * Spark para processamento de dados;
+  * NoSQL database.
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
