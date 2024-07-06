@@ -15,6 +15,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Programação para Data Science:** Linguagens de programação e bibliotecas usadas em Data Science.
   * Python para Data Science;
+  * Bibliotecas Python (numPy, pandas, matplotlib, seaborn);
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
