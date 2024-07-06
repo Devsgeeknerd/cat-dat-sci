@@ -19,6 +19,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * R para Data Science;
   * Bibliotecas R (dplyr, ggplot2).
 
+* **Estatística e Probabilidade:** Fundamentos de estatística e probabilidade aplicados à ciência de dados.
+
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
 <!-- Informações -->
