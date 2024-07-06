@@ -34,6 +34,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Análise exploratória de dados;
   * Ferramentas de visualização;
   * Dashboards interativos;
+  * Storytelling com dados.
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
