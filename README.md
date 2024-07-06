@@ -57,6 +57,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Processamento de Linguagem Natural (NLP):** Técnicas para análise e compreensão de texto e linguagem natural.
   * Fundamentos de NLP;
   * Técnicas de pré-processamento de texto;
+  * Modelos de NLP;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
