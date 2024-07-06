@@ -50,6 +50,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Deep Learning:** Técnicas avançadas de aprendizado de máquina usando redes neurais profundas.
   * Introdução ao deep learning;
+  * Redes neurais artificiais;
 
 Essas competências são fundamentais para resolver problemas complexos e tomar decisões baseadas em dados em qualquer setor.
 
